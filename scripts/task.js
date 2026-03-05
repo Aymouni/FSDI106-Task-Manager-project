@@ -3,7 +3,7 @@ class Task{
         this.title = title;
         this.description = description;
         this.color = color;
-        this.data = date;
+        this.date = date;
         this.status = status;
         this.budget = budget;
     }
